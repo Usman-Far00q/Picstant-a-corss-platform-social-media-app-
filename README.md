@@ -1,16 +1,7 @@
 # picstant
 
-A new Flutter project.
+a cross platform social networking app made using Flutter and Firebase. Through ﬁre-base, the DB is managed and real-time CRUD operations are performed. Authentication is managed through the ﬁre-base as well. Flutter hase been used to develop the cross-platform app. The ﬁnal result has been tested on both Android and IOS devices.
 
-## Getting Started
+## Brief Description
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+“Picstant” is a social smartphone application which helps people to connect with others in order to share their feelings and their thought to the world. In this, people share media like pictures and textual statuses to share what is on their mind. They have an option to like and comment on friend’s pictures. People can communicate with each other through pictures and videos. They can also share others’ posts like pics and videos. In order to use this app effectively, one has to follow someone to whom he wants to get connected with. The person can be unfollowed by pressing the unfollow button.
