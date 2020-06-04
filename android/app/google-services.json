@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493933840807",
+    "firebase_url": "https://picstant-18f50.firebaseio.com",
+    "project_id": "picstant-18f50",
+    "storage_bucket": "picstant-18f50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493933840807:android:1e79bb91169070177b0e82",
+        "android_client_info": {
+          "package_name": "com.example.picstant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493933840807-r7fv19unn4couqpgq9m2d4mo810vnbac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.picstant",
+            "certificate_hash": "49186d9c0311e37a3a5d905a7f0f7019842476cd"
+          }
+        },
+        {
+          "client_id": "493933840807-tl8nrtkehe6lub941el8fh5v0arglber.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzISoOtBJ1uP3INUB45JGD9MCkW6_blRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493933840807-tl8nrtkehe6lub941el8fh5v0arglber.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
